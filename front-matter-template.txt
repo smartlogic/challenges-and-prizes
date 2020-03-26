@@ -21,7 +21,8 @@ prize: true
 fiscal-year: (formatted as FY19, FY20, FY21 etc...)
 legal-authority:
 challenge-manager:
-challenge-manager-email: (will display in the Point of Contact field)
+challenge-manager-email: 
+point-of-contact:
 ---
 
 
